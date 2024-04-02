@@ -1,4 +1,4 @@
-#### Podcast Data Pipeline using Apache Airflow
+# Podcast Data Pipeline using Apache Airflow
 This project automates the process of extracting podcast data from a XML file and loading it into a PostgreSQL database using Apache Airflow.
 
 Overview
