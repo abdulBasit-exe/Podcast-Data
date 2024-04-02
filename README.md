@@ -17,7 +17,7 @@ This project automates the process of extracting podcast data from a XML file an
 - Configure Airflow: Update airflow.cfg to set up the connection to PostgreSQL.
 - Create a PostgreSQL Database: Create a database named podcast in PostgreSQL.
 - Install Dependencies: pip install apache-airflow-providers-postgres
-- Run Airflow Web Server: `airflow webserver --port 8080`
+- Run Airflow Web Server: `airflow webserver -p 8080`
 - Run Airflow Scheduler: `airflow scheduler`
 
 ### Usage
